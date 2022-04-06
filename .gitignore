@@ -1,0 +1,10 @@
+# emacs auto save files
+.#
+# emacs undo tree files
+*.~undo-tree~
+
+# Delhpi Rad Studio studid files
+__history/
+__recovery/
+# Delphi compilation targets
+Win32
